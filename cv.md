@@ -1,4 +1,4 @@
-![picture](picture.jpg)
+<img src="picture.jpg" alt="picture" width="200"/>
 
 # Daniil Pivovarov
 
@@ -12,9 +12,9 @@
 
 **Email:** danielpivovarov1@gmail.com
 
-**LinkedIn:**[daniel-pivovarov](www.linkedin.com/in/daniel-pivovarov)
+**LinkedIn:** [daniel-pivovarov](www.linkedin.com/in/daniel-pivovarov)
 
-**GitHub:**[aguydan](https://github.com/aguydan)
+**GitHub:** [aguydan](https://github.com/aguydan)
 
 ***
 
@@ -62,7 +62,8 @@ function sortArray(array) {
 ### Education:
 
 **RS School** «JavaScript/Front-end» Course
-2022 - present
+
+*2022 - present*
 
 ### Languages:
 
