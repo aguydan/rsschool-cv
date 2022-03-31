@@ -1,3 +1,5 @@
+![picture](picture.jpg)
+
 # Daniil Pivovarov
 
 ##### Frontend Developer
@@ -8,12 +10,18 @@
 
 **Phone:** +7 9150767326
 **Email:** danielpivovarov1@gmail.com
-[**LinkedIn**](www.linkedin.com/in/daniel-pivovarov)
-[**GitHub**](https://github.com/aguydan)
+**LinkedIn:**[daniel-pivovarov](www.linkedin.com/in/daniel-pivovarov)
+**GitHub:**[aguydan](https://github.com/aguydan)
 
 ***
 
 ### About Me:
+
+Getting straight to the list of my **strong points**:
+- Capable of learning, practicing every day
+- Easy-going and friendly
+- Dilligent, concetrated
+- Able to fit in with a team
 
 ***
 
