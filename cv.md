@@ -11,3 +11,18 @@
 [**LinkedIn**](www.linkedin.com/in/daniel-pivovarov)
 [**GitHub**](https://github.com/aguydan)
 
+***
+
+### About Me:
+
+***
+
+### Skills:
+
+- JavaScript, HTML, CSS
+- React, Node.js
+- Git, GitHub
+- VS Code
+- Basic understanding of Python
+
+***
