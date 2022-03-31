@@ -37,20 +37,14 @@ Getting straight to the list of my **strong points**:
 
 ### Code Example:
 
-**Remove Duplicates from Sorted Array (LeetCode):** Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
+**Sort the odd (Codewars):** You will be given an array of numbers. You have to sort the odd numbers in ascending order while leaving the even numbers at their original positions.
 
 ```
-function removeDuplicates(nums) {
-    let l = 1;
-    
-    for (let r = 1; r < nums.length; r++) {
-        if (nums[r] !== nums[r-1]) {
-            nums[l] = nums[r];
-            l++;
-        }
-    }
-    
-    return l;
+function sortArray(array) {
+  const oddNumbers = array.filter(number => number % 2).sort((a, b) => a - b);
+  const sortOdds = oddNumbers;
+  
+  return array.map(number => number % 2 ? sortOdds.shift() : number);
 }
 ```
 
