@@ -56,6 +56,12 @@ function removeDuplicates(nums) {
 
 ***
 
+### Projects:
+
+**CV for RS School Course**: [https://github.com/aguydan/rsschool-cv](https://github.com/aguydan/rsschool-cv)
+
+***
+
 ### Education:
 
 **RS School** «JavaScript/Front-end» Course
