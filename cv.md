@@ -1,4 +1,4 @@
-<img src="picture.jpg" alt="picture" width="200"/>
+<img src="./img/picture.jpg" alt="picture" width="200"/>
 
 # Daniil Pivovarov
 
